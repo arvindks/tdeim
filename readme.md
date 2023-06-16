@@ -22,12 +22,7 @@ To use these codes in your research, see the [license](https://github.com/arvind
 
 
 ```
-@article{farazmand2022tensor,
-  title={Tensor-based flow reconstruction from optimally located sensor measurements},
-  author={Farazmand, Mohammad and Saibaba, Arvind K},
-  journal={arXiv preprint arXiv:2208.09875},
-  year={2022}
-}
+@article{farazmand_saibaba_2023, title={Tensor-based flow reconstruction from optimally located sensor measurements}, volume={962}, DOI={10.1017/jfm.2023.269}, journal={Journal of Fluid Mechanics}, publisher={Cambridge University Press}, author={Farazmand, Mohammad and Saibaba, Arvind K.}, year={2023}, pages={A27}}
 ```
 
 ### Funding
