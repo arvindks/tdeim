@@ -3,8 +3,7 @@
 
 This repository contains MATLAB codes for determining optimal sensor placements using tensor decompositions and accompanies the paper
 
-
-"Tensor-based flow reconstruction from optimally located sensor measurements" -- M. Farazmand and A.K. Saibaba.
+Farazmand, Mohammad, and Arvind K. Saibaba. "Tensor-based flow reconstruction from optimally located sensor measurements." Journal of Fluid Mechanics 962 (2023): A27. [Website](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/tensorbased-flow-reconstruction-from-optimally-located-sensor-measurements/E6F6DD6727238BC50C42919936E4D841). [arxiv](https://arxiv.org/abs/2208.09875).
 
 
 
